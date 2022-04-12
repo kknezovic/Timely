@@ -1,8 +1,14 @@
-# Getting Started with Create React App
+# Timely MERN app
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+
+
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/44553668/162853797-6249c6e9-fe70-42a4-a8d1-733c4d0ec024.gif)
+
+
+![Izrezak](https://user-images.githubusercontent.com/44553668/162853835-46e46356-d262-4567-8f37-074e4c474c81.PNG)
+
+
 
 In the project directory, you can run:
 
